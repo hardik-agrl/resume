@@ -12,7 +12,7 @@ function App() {
       {/* <nav class="navbar bg-body-tertiary ">
         <div className="text-center">Resume</div>
       </nav> */}
-      <h1 className='text-center'>Resume</h1>
+      <h1 className="text-center">Resume</h1>
       <Topbar />
       <hr></hr>
       <div className="row">
