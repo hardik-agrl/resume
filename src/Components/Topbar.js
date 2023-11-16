@@ -1,19 +1,22 @@
 import React from "react";
 import Intro from "./Intro";
-// import Photo from './Photo'
+import Photo from './Photo'
 import About from "./About";
 
 export default function Topbar() {
   return (
-    <div className="container">
-      <div className="d-flex justify-content-around">
-        <div className="col-md-6 ">
+    <div className="">
+      <div className="d-flex justify-content-BETWEEN">
+        <div className=" ms-2">
           <Intro />
         </div>
-        <div className="col-md-6 ">
+        <div className="ms-auto ">
+
+        <Photo/>
+        </div>
+        <div className="ms-auto p-2">
           <About />
         </div>
-        {/* <Photo/> */}
         {/* <About/> */}
       </div>
     </div>
