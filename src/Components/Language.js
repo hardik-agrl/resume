@@ -10,7 +10,7 @@ export default function Language() {
           Full Professional Proficiency
         </li>
         <li>
-          <h4>Hindi</h4>
+          <h4 className="mt-3">Hindi</h4>
           Full Professional Proficiency
         </li>
       </ul>
