@@ -22,10 +22,10 @@ export default function rightbar() {
       <div className="my-5">
         <Language />
       </div>
-      <div className="my-5">
+      {/* <div className="my-5">
         {" "}
         <Interest />
-      </div>
+      </div> */}
     </>
   );
 }
