@@ -6,7 +6,7 @@ export default function Project() {
       <h2>PERSONAL PROJECTS</h2>
       <ul>
         <li>
-          <h3 className="my-3">CloudNotes-React App</h3>
+          <a href="https://cloud-notebook-vn7o.onrender.com/login"><h3 className="my-3">CloudNotes-React App</h3></a>
           Developed CloudNotes-React, a React application for managing personal notes on the cloud.
 Created using Create React App, demonstrating proficiency in modern React development tools.
 Implemented a user-friendly interface for creating, editing, and organizing notes.
