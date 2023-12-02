@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+*{
+  font: 1.15rem sans-serif;
+}
