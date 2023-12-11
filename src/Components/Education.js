@@ -9,7 +9,7 @@ export default function Education() {
         <h4>M S Ramaiah Institute Of Technology</h4>, Bangalore,Karnataka
         <ul>
           <li>7.23/10 CGPA</li>
-          <li>10/2020 - 06/2023</li>
+          <li>08/2019 - 08/2023</li>
           <li>Electronics and Communication</li>
         </ul>
         <h3>XII (CBSE)</h3>
