@@ -15,7 +15,7 @@ export default function Project() {
 <li>Created the RestAPI endpoints for CRUD operations using Express JS framework. </li>
 <li>Utilized the Bootstrap and Material-UI components for designing the User Interface.
 </li>
-{/* <li>Project Link -<a href="https://cloud-notebook-vn7o.onrender.com"> https://cloud-notebook-vn7o.onrender.com</a></li> */}
+<li>Project Link -<a href="https://cloud-notebook-vn7o.onrender.com"> https://cloud-notebook-vn7o.onrender.com</a></li>
           {/* <li>Developed CloudNotes-React, a React application for managing personal notes on the cloud.</li>
  <li>Created using Create React App, demonstrating proficiency in modern React development tools.</li> 
 <li>Implemented a user-friendly interface for creating, editing, and organizing notes.</li>
