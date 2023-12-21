@@ -12,6 +12,7 @@ export default function Skills() {
           <span class="badge text-bg-secondary mx-2 my-2">JavaScript</span>
           <span class="badge text-bg-secondary mx-2 my-2">React JS</span>
           <span class="badge text-bg-secondary mx-2 my-2">MySQL </span>
+          <span class="badge text-bg-secondary mx-2 my-2">Object Oriented Programming</span>
           <span class="badge text-bg-secondary mx-2 my-2">
             Computer Architecture
           </span>
