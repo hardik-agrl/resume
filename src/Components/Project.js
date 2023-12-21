@@ -30,7 +30,7 @@ export default function Project() {
         <li>Designed and developed NewsZone-React, a news app built with React and NewsAPI.</li>
 <li>Gained hands-on experience in building user interfaces and integrating third-party APIs using React.</li>
 <li>Demonstrated expertise in responsive design and mobile-friendly development to ensure a seamless user experience across various devices.</li>
-<li>Successfully delivered a production-ready React project, showcasing strong technical skills and problem-solving abilities.</li>
+{/* <li>Successfully delivered a production-ready React project, showcasing strong technical skills and problem-solving abilities.</li> */}
 
         
         </ul>
