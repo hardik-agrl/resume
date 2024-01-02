@@ -17,12 +17,14 @@ export default function Experience() {
         <ul>
           <h3>Software Engineer Intern</h3>
           Tantragyaan Solutions 03/2023 - 06/2023, Bangalore,Karnataka
-          <ul>
-            <h3 className="my-3">Front-End Development</h3>
-            <li>
+          <ul >
+            <h3 >Front-End Development</h3>
+            <li >
+              
               Developed and maintained an interactive UI page for monitoring
               health matrices like Blood pressure and Oxygen rate using React
-              JS, JavaScript, and Bootstrap libraries.{" "}
+              JS, JavaScript, and Bootstrap libraries.
+              
             </li>
             <li>
               This includes features like live search, interactive forms for

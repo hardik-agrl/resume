@@ -10,7 +10,7 @@ export default function Project() {
           <ul>
           <li>Developed a full stack application to store our personal notes on the cloud, using React js for frontend and Node JS for backend.</li>
 
-<li>Used JWT authorization and Bcrypt encryption for credential protection and storing the data in Mongo DB database.</li>
+<li >Used JWT authorization and Bcrypt encryption for credential protection and storing the data in Mongo DB database.</li>
 
 <li>Created the RestAPI endpoints for CRUD operations using Express JS framework. </li>
 <li>Utilized the Bootstrap and Material-UI components for designing the User Interface.
