@@ -7,8 +7,8 @@ export default function Project() {
       
         
           <h3 className="my-3">CloudNotes Application</h3>
-          <ul>
-          <li>Developed a full stack application to store our personal notes on the cloud, using React js for frontend and Node JS for backend.</li>
+          <ul >
+          <li >Developed a full stack application to store our personal notes on the cloud, using React js for frontend and Node JS for backend.</li>
 
 <li >Used JWT authorization and Bcrypt encryption for credential protection and storing the data in Mongo DB database.</li>
 
