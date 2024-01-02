@@ -8,11 +8,11 @@ export default function leftbar() {
     <>
       <div className="ml-7">
         {/* <div className="my-5"><Intro/></div> */}
-        <div className="my-5 ml-7">
-          <Education />
-        </div>
         <div className="mt-10 ml-7">
           <Experience />
+        </div>
+        <div className="my-5 ml-7">
+          <Education />
         </div>
         {/* <div className="my-5"><Certificate/></div> */}
       </div>

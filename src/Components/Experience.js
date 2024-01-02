@@ -18,7 +18,7 @@ export default function Experience() {
           <h3>Software Engineer Intern</h3>
           Tantragyaan Solutions 03/2023 - 06/2023, Bangalore,Karnataka
           <ul >
-            <h3 >Front-End Development</h3>
+            <h3 className="my-3">Front-End Development</h3>
             <li >
               
               Developed and maintained an interactive UI page for monitoring
